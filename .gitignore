@@ -1,0 +1,22 @@
+# Data (large, and covered by Kaggle's terms)
+data/raw/
+data/sample/
+data/*.duckdb
+data/*.duckdb.wal
+
+# Dashboard extracts (derived from the Kaggle data; the dashboard lives on Tableau Public)
+dashboard/data/
+
+# Local working notes
+HANDOFF.md
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
