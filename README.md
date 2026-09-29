@@ -5,6 +5,7 @@ transactions**, combining SQL, Python, forecasting and an interactive dashboard 
 the questions a fashion retailer's merchandising, planning and CRM teams ask every season.
 
 > **Interactive dashboard:** [view on Tableau Public](https://public.tableau.com/app/profile/madeleine.lacoste/viz/HMRetailMerchandisingAnalytics/MerchandisingOverview)
+> · **Summary deck:** [8-slide PDF](docs/Fashion-Retail-Intelligence-slides.pdf)
 
 ## Business Questions
 
@@ -158,6 +159,7 @@ fashion-retail-intelligence/
 ├── src/hm_analytics/             # query runner, chart style, forecasting
 ├── scripts/                      # build database, build notebooks, export dashboard data
 ├── dashboard/                    # Tableau build guide (extract CSVs are generated locally)
+├── docs/                         # summary slide deck (PDF)
 └── images/                       # charts saved by the notebooks
 ```
 
